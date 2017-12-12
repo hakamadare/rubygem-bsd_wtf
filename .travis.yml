@@ -2,9 +2,9 @@ sudo: false
 language: ruby
 rvm:
   - 2.1.8
+env:
+  - PATH=$PATH:/usr/games
 before_install:
   - gem install bundler -v 1.16.0
   - sudo apt-get -qq update
   - sudo apt-get install -y bsdgames
-  - sudo dpkg -L bsdgames | grep wtf
-  - which wtf
