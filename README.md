@@ -1,4 +1,4 @@
-# BsdWtf
+# BsdWtf [![Travis](https://img.shields.io/travis/hakamadare/rubygem-bsd_wtf.svg)]()
 
 This gem wraps the [BSD wtf](https://www.freebsd.org/cgi/man.cgi?query=wtf&manpath=NetBSD+7.1) command in a Ruby interface.
 
