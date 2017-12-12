@@ -6,5 +6,5 @@ before_install:
   - gem install bundler -v 1.16.0
   - sudo apt-get -qq update
   - sudo apt-get install -y bsdgames
-  - echo $PATH
+  - sudo dpkg -L bsdgames | grep wtf
   - which wtf
