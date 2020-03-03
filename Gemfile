@@ -7,6 +7,6 @@ gem "whiches", "~> 0"
 
 group :development do
   gem "irbtools", "~> 2"
-  gem "rake", "~> 10.0"
+  gem "rake", "~> 13.0"
   gem "rspec", "~> 3.0"
 end
