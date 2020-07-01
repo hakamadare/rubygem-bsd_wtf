@@ -43,7 +43,7 @@ GEM
       ruby_info (~> 1.0)
       ruby_version (~> 1.0)
       wirb (~> 2.0)
-    json (2.2.0)
+    json (2.3.1)
     method_locator (0.0.4)
     method_source (0.9.2)
     methodfinder (2.2.1)
